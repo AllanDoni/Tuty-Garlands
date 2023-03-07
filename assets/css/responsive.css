@@ -1,0 +1,14 @@
+@media (max-width: 991px) {
+    #header #logo img {
+        max-height: 50px;
+    }
+}
+@media (max-width: 767px) {
+    #header #logo img {
+        max-height: 40px !important;
+    }
+    .section-header h2, h2 {
+        font-size: 23px;
+        margin-bottom: 0px;
+    }
+}
